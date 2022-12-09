@@ -6,4 +6,6 @@ int main()
 {
   printf("hello world\n");  //打印hello world   \n为换行符
   system("pause");  //暂停运行，否则直接运行完程序会直接关闭窗口（vscode需要，其他编译器看情况） 
+
+  //change
 }
