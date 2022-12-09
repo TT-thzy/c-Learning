@@ -1,3 +1,4 @@
-# c-Learning
+# 重温c
 
-重温c
+
+### target:write an operate system kernel
