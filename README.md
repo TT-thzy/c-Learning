@@ -7,4 +7,6 @@ gcc hello.c -o hello 编译hello.c源文件并生成hello.exe可执行文件
 
 windows commond运行可执行文件直接打入文件名(hello)回车直接运行
 
+vscode自定义c代码模板快捷键 -c
+
 ### target:write an simple operate system kernel
